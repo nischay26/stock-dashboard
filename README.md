@@ -65,6 +65,3 @@ src/
 
 > **Note:** Alpha Vantage's free tier allows 25 requests per day, so you may hit the limit after a few searches.
 
-## Next Steps
-
-- Watchlist page for saving and tracking favorite tickers
